@@ -1,4 +1,4 @@
-package structural.builder;
+package creational.builder;
 
 public class app {
     public static void main(String[] args){

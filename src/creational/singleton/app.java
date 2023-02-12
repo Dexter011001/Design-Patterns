@@ -1,4 +1,4 @@
-package structural.singleton;
+package creational.singleton;
 
 public class app {
 

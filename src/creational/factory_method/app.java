@@ -1,4 +1,4 @@
-package structural.factory_method;
+package creational.factory_method;
 
 public class app {
     public static void main(String [] args){

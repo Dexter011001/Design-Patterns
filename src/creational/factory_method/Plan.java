@@ -1,4 +1,4 @@
-package structural.factory_method;
+package creational.factory_method;
 
 public abstract class Plan {
     protected double rate;

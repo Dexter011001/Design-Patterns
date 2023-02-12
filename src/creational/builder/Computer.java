@@ -1,4 +1,4 @@
-package structural.builder;
+package creational.builder;
 
 public class Computer {
     // Required
